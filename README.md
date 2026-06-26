@@ -103,7 +103,7 @@ Features extracted across four EEG frequency bands:
 ## Project Structure
 
 ```
-├── Minor_Project_Final.ipynb   # Main notebook (full pipeline)
+├── EEG.ipynb   # Main notebook (full pipeline)
 ├── data/                       # DEAP dataset (not included)
 └── README.md
 ```
