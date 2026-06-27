@@ -109,15 +109,10 @@ software-to-hardware loop.
 
 <img width="1594" height="1600" alt="WhatsApp Image 2026-06-27 at 23 06 31" src="https://github.com/user-attachments/assets/d441ac25-8c4e-46aa-88c8-662ffd406f49" />
 
-
-https://github.com/user-attachments/assets/5172b7b6-b11c-46fd-a021-af8641a6c1cf
-
+https://github.com/user-attachments/assets/1cbead0a-0e9d-44e4-8a09-31235786ae0b
 
 
-https://github.com/user-attachments/assets/cb2b48a5-37fe-488f-be64-cb4078eefad0
-
-
-
+https://github.com/user-attachments/assets/60b876e9-d5ec-4d0c-b77e-c5c9e7148cca
 
 
 ## Project Structure
