@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4232fa76-13d7-4d2e-89ae-d70c05a5404c
-
 # Emotion Classification Using EEG Signals
 
 A machine learning project that classifies human emotions from EEG brain signals using the DEAP dataset. Emotions are mapped to four quadrants of the valence–arousal model. The pipeline covers traditional ML classifiers as well as deep learning models (CNN, ResNet50, DenseNet121), with real-time emotion output via Firebase.
