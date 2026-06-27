@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/4232fa76-13d7-4d2e-89ae-d70c05a5404c
+
 # Emotion Classification Using EEG Signals
 
 A machine learning project that classifies human emotions from EEG brain signals using the DEAP dataset. Emotions are mapped to four quadrants of the valence–arousal model. The pipeline covers traditional ML classifiers as well as deep learning models (CNN, ResNet50, DenseNet121), with real-time emotion output via Firebase.
@@ -107,8 +111,16 @@ ESP32 microcontroller, which lights up RGB LEDs corresponding
 to the detected emotional state — completing the full 
 software-to-hardware loop.
 
-[Demo Video 1 - Firebase Live Update] 
-[Demo Video 2 - ESP32 LED Response]
+<img width="1594" height="1600" alt="WhatsApp Image 2026-06-27 at 23 06 31" src="https://github.com/user-attachments/assets/d441ac25-8c4e-46aa-88c8-662ffd406f49" />
+
+
+https://github.com/user-attachments/assets/5172b7b6-b11c-46fd-a021-af8641a6c1cf
+
+
+
+https://github.com/user-attachments/assets/cb2b48a5-37fe-488f-be64-cb4078eefad0
+
+
 
 
 
