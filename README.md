@@ -109,10 +109,11 @@ software-to-hardware loop.
 
 <img width="1594" height="1600" alt="WhatsApp Image 2026-06-27 at 23 06 31" src="https://github.com/user-attachments/assets/d441ac25-8c4e-46aa-88c8-662ffd406f49" />
 
-https://github.com/user-attachments/assets/1cbead0a-0e9d-44e4-8a09-31235786ae0b
+[Hardware Demo - LED response from ML model] https://github.com/user-attachments/assets/5614d1fb-e37a-4eee-82a4-223d525d8389
 
+[Firebase Demo - Real-time database update] https://github.com/user-attachments/assets/ed87d9b1-ba38-4ceb-88fa-05af8f065455
 
-https://github.com/user-attachments/assets/60b876e9-d5ec-4d0c-b77e-c5c9e7148cca
+ 
 
 
 ## Project Structure
