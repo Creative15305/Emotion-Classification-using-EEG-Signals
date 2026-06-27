@@ -100,6 +100,18 @@ Features extracted across four EEG frequency bands:
 
 ---
 
+## Hardware Demo
+
+Real-time emotion predictions from Firebase are received by an 
+ESP32 microcontroller, which lights up RGB LEDs corresponding 
+to the detected emotional state — completing the full 
+software-to-hardware loop.
+
+[Demo Video 1 - Firebase Live Update] 
+[Demo Video 2 - ESP32 LED Response]
+
+
+
 ## Project Structure
 
 ```
